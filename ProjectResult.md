@@ -53,7 +53,7 @@ Untuk tingkat signifikansi 0.05 dan N = 17 maka nilai R_tabel berdasarkan tabel 
 
 ## Analisis Data
 ### Proporsi Responden
-<img src="https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/6e3dc07f-3ced-4300-a213-95a4aa8bf555" width=50% height=50%>
+<img src="https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/6e3dc07f-3ced-4300-a213-95a4aa8bf555" width=30% height=30%>
 
 Proporsi anggota sampel diperoleh dari sampling acak klaster. Mayoritas responden terdiri dari mahasiswa program studi biologi.
 
@@ -63,12 +63,16 @@ Proporsi anggota sampel diperoleh dari sampling acak klaster. Mayoritas responde
 Dari grafik diatas, dapat disimpulkan bahwa rata-rata mahasiswa sudah cukup puas dengan faktor informasi pada EMAS2. Mahasiswa FMIPA UI Angkatan 2019 rata-rata sudah cukup puas dengan informasi yang diberikan pada EMAS2 dan dengan adanya panduan yang disediakan EMAS2.
 
 ### Faktor _Usability_
-![Usability](https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/8e2c781f-04df-4310-907b-72bbcb20b7c4)
+![USE1](https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/0b4164e7-f659-4115-8383-86697ef4856d)
+
+![USE2](https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/5275bca4-4609-4295-b454-bc10cb7181d0)
 
 Dari grafik diatas, dapat disimpulkan bahwa rata-rata mahasiswa sudah cukup puas dengan faktor usability pada EMAS2. Mahasiswa FMIPA Angkatan 2019 rata-rata cukup puas karena EMAS2 mudah untuk dioperasikan, materi pembelajaran yang diberikan dosen mudah diakses, EMAS2 dapat diakses tiap saat, dan EMAS2 memiliki navigasi yang mudah.
 
 ### Faktor Layanan
-![Layanan](https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/b55267e3-bb27-4309-a32c-9e6ad944ab18)
+![SERV1](https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/f8e069d1-e753-4748-bc4b-7211c40b117f)
+
+![SERV2](https://github.com/hunaiva-kintan/Sampling-Technique/assets/99937211/1502c04c-a056-420a-8757-1a3f47c234be)
 
 Dari beberapa grafik diatas, dapat disimpulkan bahwa rata-rata mahasiswa FMIPA Angkatan 2019 tidak terlalu puas akan tampilan EMAS2, fitur chat, dan fitur helpdesk yang terdapat pada EMAS2, atau dalam kata lain rata-rata mahasiswa merasa biasa saja dengan ketiga aspek tersebut. Namun, untuk aspek pada faktor layanan lainnya seperti forum kelas, kemudahan menggunggah file, batasan ukuran file, dan ketepatan waktu pada EMAS2, rata-rata mahasiswa FMIPA Angkatan 2019 sudah cukup puas akan aspek-aspek tersebut.
 
